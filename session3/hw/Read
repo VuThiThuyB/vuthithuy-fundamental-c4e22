@@ -1,0 +1,7 @@
+1.What is nested list?
+    aw: A list within another list is said to be nested.
+    ex: zs = ["hello", 2.0, 5, [10, 20]]
+2.Can a list store both integers and strings in it?
+    aw: Yes
+
+ 
